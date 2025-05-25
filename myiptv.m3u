@@ -160,7 +160,7 @@ http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226841/index.m3u8
 #EXTINF:-1,tvg-id="cctv17" tvg-name="cctv17" tvg-logo="https://epg.v1.mk/logo/cctv17.png" group-title="央视",CCTV17
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226869/index.m3u8
 #EXTINF:-1,tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://epg.v1.mk/logo/辽宁卫视.png" group-title="卫视",辽宁卫视
-http://39.134.61.219/PLTV/88888888/224/3221227082/index.m3u8
+http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226689/1.m3u8
 #EXTINF:-1,tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://epg.v1.mk/logo/辽宁卫视.png" group-title="卫视",辽宁卫视
 http://39.134.61.219/PLTV/88888888/224/3221226859/index.m3u8
 #EXTINF:-1,tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://epg.v1.mk/logo/辽宁卫视.png" group-title="卫视",辽宁卫视
