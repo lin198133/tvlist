@@ -160,7 +160,7 @@ http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226841/index.m3u8
 #EXTINF:-1,tvg-id="cctv17" tvg-name="cctv17" tvg-logo="https://epg.v1.mk/logo/cctv17.png" group-title="央视",CCTV17
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226869/index.m3u8
 #EXTINF:-1,tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://epg.v1.mk/logo/辽宁卫视.png" group-title="卫视",辽宁卫视
-http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226689/1.m3u8
+http://39.134.61.219/PLTV/88888888/224/3221227184/index.m3u8
 #EXTINF:-1,tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://epg.v1.mk/logo/辽宁卫视.png" group-title="卫视",辽宁卫视
 http://39.134.61.219/PLTV/88888888/224/3221226859/index.m3u8
 #EXTINF:-1,tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://epg.v1.mk/logo/辽宁卫视.png" group-title="卫视",辽宁卫视
@@ -387,21 +387,23 @@ http://39.134.61.219/PLTV/88888888/224/3221226867/index.m3u8
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227328/index.m3u8
 #EXTINF:-1,tvg-id="辽宁移动电视" tvg-name="辽宁移动电视" tvg-logo="https://epg.v1.mk/logo/辽宁移动电视.png" group-title="辽宁",辽宁移动电视
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226982/index.m3u8
-#EXTINF:-1,tvg-id="家庭理财" tvg-name="家庭理财" tvg-logo="https://epg.v1.mk/logo/家庭理财.png" group-title="其他",家庭理财
-http://39.134.61.219/PLTV/88888888/224/3221226538/index.m3u8
-#EXTINF:-1,tvg-id="家庭理财" tvg-name="家庭理财" tvg-logo="https://epg.v1.mk/logo/家庭理财.png" group-title="其他",家庭理财
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226754/index.m3u8
-#EXTINF:-1,tvg-id="新动漫" tvg-name="新动漫" tvg-logo="https://epg.v1.mk/logo/新动漫.png" group-title="其他",新动漫
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226818/index.m3u8
-#EXTINF:-1,tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://epg.v1.mk/logo/金鹰卡通.png" group-title="其他",金鹰卡通
-http://39.134.61.219/PLTV/88888888/224/3221226940/index.m3u8
-#EXTINF:-1,tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://epg.v1.mk/logo/金鹰卡通.png" group-title="其他",金鹰卡通
-http://39.134.61.219/PLTV/88888888/224/3221226543/index.m3u8
-#EXTINF:-1,tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://epg.v1.mk/logo/金鹰卡通.png" group-title="其他",金鹰卡通
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226845/index.m3u8
-#EXTINF:-1,tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://epg.v1.mk/logo/金鹰卡通.png" group-title="其他",金鹰卡通
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227300/index.m3u8
 #EXTINF:-1,tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://epg.v1.mk/logo/CHC动作电影.png" group-title="影视欣赏",CHC动作电影
 http://39.134.61.219/PLTV/88888888/224/3221227093/index.m3u8
 #EXTINF:-1,tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://epg.v1.mk/logo/CHC家庭影院.png" group-title="影视欣赏",CHC家庭影院
 http://39.134.61.219/PLTV/88888888/224/3221227164/index.m3u8
+#EXTINF:-1,tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://epg.v1.mk/logo/CHC家庭影院.png" group-title="影视欣赏",CHC影迷电影
+http://39.134.61.219/PLTV/88888888/224/3221227162/index.m3u8
+#EXTINF:-1,tvg-id="家庭理财" tvg-name="家庭理财" tvg-logo="https://epg.v1.mk/logo/家庭理财.png" group-title="理财",家庭理财
+http://39.134.61.219/PLTV/88888888/224/3221226538/index.m3u8
+#EXTINF:-1,tvg-id="家庭理财" tvg-name="家庭理财" tvg-logo="https://epg.v1.mk/logo/家庭理财.png" group-title="理财",家庭理财
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226754/index.m3u8
+#EXTINF:-1,tvg-id="新动漫" tvg-name="新动漫" tvg-logo="https://epg.v1.mk/logo/新动漫.png" group-title="儿童",新动漫
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226818/index.m3u8
+#EXTINF:-1,tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://epg.v1.mk/logo/金鹰卡通.png" group-title="儿童",金鹰卡通
+http://39.134.61.219/PLTV/88888888/224/3221226940/index.m3u8
+#EXTINF:-1,tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://epg.v1.mk/logo/金鹰卡通.png" group-title="儿童",金鹰卡通
+http://39.134.61.219/PLTV/88888888/224/3221226543/index.m3u8
+#EXTINF:-1,tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://epg.v1.mk/logo/金鹰卡通.png" group-title="儿童",金鹰卡通
+http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226845/index.m3u8
+#EXTINF:-1,tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://epg.v1.mk/logo/金鹰卡通.png" group-title="其他",金鹰纪实
+http://39.134.61.219/PLTV/88888888/224/3221226459/index.m3u8
