@@ -159,6 +159,16 @@ http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227352/index.m3u8
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226841/index.m3u8
 #EXTINF:-1,tvg-id="cctv17" tvg-name="cctv17" tvg-logo="https://epg.v1.mk/logo/cctv17.png" group-title="央视",CCTV17
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226869/index.m3u8
+#EXTINF:-1,tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://epg.v1.mk/logo/风云剧场.png" group-title="央视",风云剧场
+http://39.134.61.219/PLTV/88888888/224/3221227146/index.m3u8
+#EXTINF:-1,tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://epg.v1.mk/logo/风云音乐.png" group-title="央视",风云音乐
+http://39.134.61.219/PLTV/88888888/224/3221227148/index.m3u8
+#EXTINF:-1,tvg-id="女性时尚" tvg-name="女性时尚" tvg-logo="https://epg.v1.mk/logo/女性时尚.png" group-title="央视",女性时尚
+http://39.134.61.219/PLTV/88888888/224/3221227152/index.m3u8
+#EXTINF:-1,tvg-id="第一剧场" tvg-name="第一剧场" tvg-logo="https://epg.v1.mk/logo/第一剧场.png" group-title="央视",第一剧场
+http://39.134.61.219/PLTV/88888888/224/3221227144/index.m3u8
+#EXTINF:-1,tvg-id="文化精品" tvg-name="文化精品" tvg-logo="https://epg.v1.mk/logo/文化精品.png" group-title="央视",文化精品
+http://39.134.61.219/PLTV/88888888/224/3221227085/index.m3u8
 #EXTINF:-1,tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://epg.v1.mk/logo/辽宁卫视.png" group-title="卫视",辽宁卫视
 http://39.134.61.219/PLTV/88888888/224/3221227184/index.m3u8
 #EXTINF:-1,tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://epg.v1.mk/logo/辽宁卫视.png" group-title="卫视",辽宁卫视
@@ -397,13 +407,15 @@ http://39.134.61.219/PLTV/88888888/224/3221227162/index.m3u8
 http://39.134.61.219/PLTV/88888888/224/3221226538/index.m3u8
 #EXTINF:-1,tvg-id="家庭理财" tvg-name="家庭理财" tvg-logo="https://epg.v1.mk/logo/家庭理财.png" group-title="理财",家庭理财
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226754/index.m3u8
-#EXTINF:-1,tvg-id="新动漫" tvg-name="新动漫" tvg-logo="https://epg.v1.mk/logo/新动漫.png" group-title="儿童",新动漫
+#EXTINF:-1,tvg-id="新动漫" tvg-name="新动漫" tvg-logo="https://epg.v1.mk/logo/新动漫.png" group-title="青少儿童",新动漫
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226818/index.m3u8
-#EXTINF:-1,tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://epg.v1.mk/logo/金鹰卡通.png" group-title="儿童",金鹰卡通
+#EXTINF:-1,tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://epg.v1.mk/logo/金鹰卡通.png" group-title="青少儿童",金鹰卡通
 http://39.134.61.219/PLTV/88888888/224/3221226940/index.m3u8
-#EXTINF:-1,tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://epg.v1.mk/logo/金鹰卡通.png" group-title="儿童",金鹰卡通
+#EXTINF:-1,tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://epg.v1.mk/logo/金鹰卡通.png" group-title="青少儿童",金鹰卡通
 http://39.134.61.219/PLTV/88888888/224/3221226543/index.m3u8
-#EXTINF:-1,tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://epg.v1.mk/logo/金鹰卡通.png" group-title="儿童",金鹰卡通
+#EXTINF:-1,tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://epg.v1.mk/logo/金鹰卡通.png" group-title="青少儿童",金鹰卡通
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226845/index.m3u8
+#EXTINF:-1,tvg-id="晴彩青少" tvg-name="晴彩青少" tvg-logo="https://epg.v1.mk/logo/晴彩青少.png" group-title="青少儿童",晴彩青少
+http://39.134.61.219/PLTV/88888888/224/3221227140/index.m3u8
 #EXTINF:-1,tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://epg.v1.mk/logo/金鹰卡通.png" group-title="其他",金鹰纪实
 http://39.134.61.219/PLTV/88888888/224/3221226459/index.m3u8
