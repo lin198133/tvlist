@@ -131,7 +131,7 @@ http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227664/index.m3u8
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227432/index.m3u8
 #EXTINF:-1,tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://epg.v1.mk/logo/CHC家庭影院.png" group-title="影视欣赏",CHC家庭影院
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227727/index.m3u8
-#EXTINF:-1,tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://epg.v1.mk/logo/CHC家庭影院.png" group-title="影视欣赏",CHC影迷电影
+#EXTINF:-1,tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://epg.v1.mk/logo/CHC影迷影院.png" group-title="影视欣赏",CHC影迷电影
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227635/index.m3u8
 #EXTINF:-1,tvg-id="家庭理财" tvg-name="家庭理财" tvg-logo="https://epg.v1.mk/logo/家庭理财.png" group-title="理财",家庭理财
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227596/index.m3u8
